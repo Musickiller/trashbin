@@ -7,3 +7,4 @@ Here you can find stuff that I won't be working on again (most surely).
    * Useless piece of software.
    * Funny colors.
    * Made out of a PyGame example.
+   * The only app that does EXACTLY what I wanted it to do.
